@@ -1,16 +1,40 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm André Alencar </h1>
+<h4 align="center">Welcome to my repository in github</h4>
 
-<!--
-**Alencar26/Alencar26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```ex
+defmodule Career.Dev do
 
-Here are some ideas to get you started:
+@frontend [:HTML, :CSS, :JavaScript, :Blazor]
+@backend [:CSharp, :Java, :NodeJs, :Elixir, :Python]
+@database [:SQL, :mongoDb]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+developer = %{
+name: :Andre_Alencar,
+age: 24,
+studying: :software_engineering,
+technologies: %{
+frontend: @frontend,
+backend: @backend,
+database: @database
+},
+status: :junior
+}
+
+def build_career(developer) do
+
+developer
+|> good_ideas()
+|> continuous_study()
+|> personal_projects()
+|> determination()
+|> skills_development()
+|> professional_growth()
+
+end
+end
+```
+<p align="left">
+<a href="#" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+</p>
