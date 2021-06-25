@@ -2,8 +2,39 @@
 
 <h4 align="center">Welcome to my repository in github <img width="20" src="https://emojis.slackmojis.com/emojis/images/1531847724/4240/blob-hearts.gif?1531847724"></h4>
 
-<img  align="left"  width="400px" src="https://github-readme-stats.vercel.app/api?username=Alencar26&show_icons=true&theme=midnight-purple"/>
-<img  align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alencar26&layout=compact&hide=shell&theme=midnight-purple"/>
+
+```ex
+defmodule Career.Dev do
+
+@frontend [:HTML, :CSS, :JavaScript, :Blazor, :React]
+@backend [:CSharp, :Java, :NodeJs, :Elixir, :Python]
+@database [:SQL, :mongoDb]
+
+developer = %{
+name: :Andre_Alencar,
+age: 24,
+studying: :software_engineering,
+technologies: %{
+frontend: @frontend,
+backend: @backend,
+database: @database
+},
+status: :junior
+}
+
+def build_career(developer) do
+
+developer
+|> good_ideas()
+|> continuous_study()
+|> personal_projects()
+|> determination()
+|> skills_development()
+|> professional_growth()
+
+end
+end
+```
 
 <div>
 	<img align="right" src="assets/img2.png" width="250" height="250">
@@ -27,5 +58,3 @@
 - <img width="15" src="https://emojis.slackmojis.com/emojis/images/1572027762/6879/blob_ninja.png?1572027762"> I want to be a programming ninja
 - <img width="15" src="https://emojis.slackmojis.com/emojis/images/1475696136/1202/linux.png?1475696136"/> I love Linux
 - <img width="15" src="https://emojis.slackmojis.com/emojis/images/1563481434/6016/meow_coffee.png?1563481434"> Coffee is my life
-
-![Snake animation](https://github.com/Alencar26/Alencar26/blob/output/github-contribution-grid-snake.svg)
