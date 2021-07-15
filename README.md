@@ -3,8 +3,8 @@
   <a href="mailto: aaugusto310@gmail.com" alt="Gmail"><img src="assets/gm2.svg"/></a>
   <a href="https://dribbble.com/Alencar26" alt="Dribbble"><img src="assets/dribbble.svg"/></a>
 </div>
-<hr/>
-<br/>
+
+#
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F9C81D&center=true&vCenter=true&multiline=true&width=405&lines=%3E+Hello+everyone.+I'm+Andr%C3%A9+Alencar!"/>
 </p>
