@@ -17,15 +17,38 @@
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1613270271/12726/space_float.gif?1613270271" /> I'm passionate about technology and the universe
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1597485560/10024/coffee.png?1597485560" /> I love coffee
 
-<details>
-  <summary style="font-family: monospace;">Technology Stack</summary>
-      
-</details>
-<details>
-  <summary style="font-family: monospace;">Operating System & Tools</summary>
-      
-</details>
-<details>
-  <summary style="font-family: monospace;">Stats</summary>
-      
-</details>
+- | ============ ⋆★⋆ ==============|     
+        <details>
+          <summary style="font-family: monospace;">Technology Stack</summary>
+          <img src="assets/java.svg"/> 
+          <img src="assets/csharp.svg"/> 
+          <img src="assets/test.svg"/> 
+          <img src="assets/sql.svg"/>  
+          <img src="assets/javascript.svg"/> 
+          <img src="assets/html.svg"/> 
+          <img src="assets/css.svg"/> 
+          <img src="assets/typescript.svg"/> 
+          <img src="assets/react.svg"/> 
+        </details>
+        <details>
+          <summary style="font-family: monospace;">Operating System & Tools</summary>
+          <div>
+          <img src="assets/linux.svg"/> 
+          <img src="assets/windows.svg"/> 
+          <img src="assets/figma.svg"/> 
+          <img src="assets/git.svg"/> 
+          <img src="assets/docker.svg"/> 
+          <img src="assets/bash.svg"/> 
+          <img src="assets/markdown.svg"/> 
+          </div>
+        </details>
+        <details>
+          <summary style="font-family: monospace;">Others</summary>
+          <img src="assets/node.svg"/> 
+          <img src="assets/elixir.svg"/> 
+          <img src="assets/python.svg"/> 
+          <img src="assets/next.svg"/> 
+          <img src="assets/blazor.svg"/> 
+          <img src="assets/sass.svg"/> 
+          <img src="assets/mongodb.svg"/>  
+       </details>
