@@ -39,6 +39,12 @@
           <img src="assets/git.svg"/> 
           <img src="assets/docker.svg"/> 
           <img src="assets/bash.svg"/> 
+          <img src="assets/visualstudio.svg"/> 
+          <img src="assets/vscode.svg"/> 
+          <img src="assets/intellij.svg"/> 
+          <img src="assets/postman.svg"/> 
+          <img src="assets/insomnia.svg"/> 
+          <img src="assets/notion.svg"/> 
           <img src="assets/markdown.svg"/> 
           </div>
         </details>
