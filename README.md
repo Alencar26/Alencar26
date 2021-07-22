@@ -18,6 +18,7 @@
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" /> I really like lo-fi songs
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1597485560/10024/coffee.png?1597485560" /> I love coffee
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F9C81D&center=true&vCenter=true&multiline=true&width=405&lines=%F0%9F%8C%95+%F0%9F%8C%96+%F0%9F%8C%97+%F0%9F%8C%98+%F0%9F%8C%91+%F0%9F%8C%92+%F0%9F%8C%93+%F0%9F%8C%94+%F0%9F%8C%95)](https://git.io/typing-svg)
         <details>
           <summary style="font-family: monospace;">Technology Stack</summary>
           <img src="assets/java.svg"/> 
@@ -56,9 +57,9 @@
           <img src="assets/next.svg"/> 
           <img src="assets/blazor.svg"/> 
           <img src="assets/spring.svg"/> 
-          <img src="assets/selenium.svg"/>
-          <img src"assets/cucumber.svg"/> 
-          <img src"assets/junit5.svg" />  
+          <img src="assets/selenium.svg"/> 
+          <img src="assets/cucumber.svg"/> 
+          <img src="assets/junit5.svg"/> 
           <img src="assets/sass.svg"/> 
           <img src="assets/mongodb.svg"/>  
        </details>
