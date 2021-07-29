@@ -23,7 +23,6 @@
           <summary style="font-family: monospace;">Technology Stack</summary>
           <img src="assets/java.svg"/> 
           <img src="assets/csharp.svg"/> 
-          <img src="assets/test.svg"/> 
           <img src="assets/sql.svg"/>  
           <img src="assets/javascript.svg"/> 
           <img src="assets/html.svg"/> 
