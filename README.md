@@ -11,12 +11,12 @@
 
 ### About me
 
-- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1626363216/47507/pepe-hacker.gif?1626363216" /> I'm a 6th semester student of software engineering.
-- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" /> I'm currently working with software test automation
-- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1531847724/4240/blob-hearts.gif?1531847724"> My family is my greatest treasure
-- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1613270271/12726/space_float.gif?1613270271" /> I'm passionate about technology and the universe
-- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" /> I really like lo-fi songs
-- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1597485560/10024/coffee.png?1597485560" /> I love coffee
+- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1626363216/47507/pepe-hacker.gif?1626363216" /> I'm a 7th semester student of software engineering;
+- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" /> I'm currently working with software quality;
+- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1531847724/4240/blob-hearts.gif?1531847724"> My family is my greatest treasure;
+- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1613270271/12726/space_float.gif?1613270271" /> I'm passionate about technology and the universe;
+- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" /> I really like lo-fi songs;
+- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1597485560/10024/coffee.png?1597485560" /> I love coffee.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F9C81D&center=true&vCenter=true&multiline=true&width=405&lines=%F0%9F%8C%95+%F0%9F%8C%96+%F0%9F%8C%97+%F0%9F%8C%98+%F0%9F%8C%91+%F0%9F%8C%92+%F0%9F%8C%93+%F0%9F%8C%94+%F0%9F%8C%95)](https://git.io/typing-svg)
         <details>
