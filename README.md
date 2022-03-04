@@ -18,6 +18,7 @@
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" /> I really like lo-fi songs;
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1597485560/10024/coffee.png?1597485560" /> I love coffee.
 ---
+
         <details>
           <summary style="font-family: monospace;">Technology Stack</summary>
           <img src="assets/java.svg"/> 
