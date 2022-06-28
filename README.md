@@ -1,6 +1,5 @@
 <div>
   <a href="https://www.linkedin.com/in/andreaalencar" alt="Linkedin"><img src="assets/likedin.svg"/></a>
-  <a href="mailto: aaugusto310@gmail.com" alt="Gmail"><img src="assets/gm2.svg"/></a>
   <a href="https://dribbble.com/Alencar26" alt="Dribbble"><img src="assets/dribbble.svg"/></a>
 </div>
 
