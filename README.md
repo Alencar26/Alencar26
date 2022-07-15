@@ -10,7 +10,7 @@
 
 ### About me
 
-- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1626363216/47507/pepe-hacker.gif?1626363216" /> I'm a 7th semester student of software engineering;
+- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1626363216/47507/pepe-hacker.gif?1626363216" /> I'm a 8th semester student of software engineering;
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" /> I'm currently working with software quality;
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1531847724/4240/blob-hearts.gif?1531847724"> My family is my greatest treasure;
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1613270271/12726/space_float.gif?1613270271" /> I'm passionate about technology and the universe;
