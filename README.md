@@ -63,8 +63,5 @@
           <img src="assets/mongodb.svg"/>  
        </details>
 
-### My dotfiles from Ubuntu
-<img width="20" src="https://emojis.slackmojis.com/emojis/images/1643515118/11386/among_us_orange_dance.gif?1643515118">
-<div>
-  <a href="https://github.com/Alencar26/dotfiles" alt="Dots"><img src="https://emojis.slackmojis.com/emojis/images/1643514155/1159/ubuntu.png?1643514155"/></a>
-</div>
+### My dotfiles from Ubuntu <img width="20" src="https://emojis.slackmojis.com/emojis/images/1643514155/1159/ubuntu.png?1643514155">
+<img width="20" src="https://emojis.slackmojis.com/emojis/images/1643515118/11386/among_us_orange_dance.gif?1643515118"> - [Dotfiles](https://github.com/Alencar26/dotfiles)
