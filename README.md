@@ -64,4 +64,4 @@
        </details>
 
 ### My dotfiles from Ubuntu <img width="20" src="https://emojis.slackmojis.com/emojis/images/1643514155/1159/ubuntu.png?1643514155">
-<img width="20" src="https://emojis.slackmojis.com/emojis/images/1643515118/11386/among_us_orange_dance.gif?1643515118"> - [Dotfiles](https://github.com/Alencar26/dotfiles)
+<img width="20" src="https://emojis.slackmojis.com/emojis/images/1643515118/11386/among_us_orange_dance.gif?1643515118"> [dotfiles](https://github.com/Alencar26/dotfiles)
