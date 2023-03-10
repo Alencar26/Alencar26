@@ -10,12 +10,13 @@
 
 ### About me
 
-- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1626363216/47507/pepe-hacker.gif?1626363216" /> I'm a 8th semester student of software engineering;
+- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1626363216/47507/pepe-hacker.gif?1626363216" /> I have a degree in software engineering;
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" /> I'm currently working with software quality;
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1531847724/4240/blob-hearts.gif?1531847724"> My family is my greatest treasure;
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1613270271/12726/space_float.gif?1613270271" /> I'm passionate about technology and the universe;
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" /> I really like lo-fi songs;
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1597485560/10024/coffee.png?1597485560" /> I love coffee.
+- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1643514159/1202/linux.png?1643514159"> I love using linux
 
 <p></p>
         <details>
@@ -61,3 +62,9 @@
           <img src="assets/sass.svg"/> 
           <img src="assets/mongodb.svg"/>  
        </details>
+
+### My dotfiles from Ubuntu
+<img width="20" src="https://emojis.slackmojis.com/emojis/images/1643515118/11386/among_us_orange_dance.gif?1643515118">
+<div>
+  <a href="https://github.com/Alencar26/dotfiles" alt="Dots"><img src="https://emojis.slackmojis.com/emojis/images/1643514155/1159/ubuntu.png?1643514155"/></a>
+</div>
