@@ -8,6 +8,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F9C81D&center=true&vCenter=true&multiline=true&width=405&lines=%3E+Hello+everyone.+I'm+Andr%C3%A9+Alencar!"/>
 </p>
 
+<img width=50 src="./assets/introduction-to-cybersecurity.png"/>
+
 ### About me
 
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1626363216/47507/pepe-hacker.gif?1626363216" /> I have a degree in software engineering;
@@ -22,13 +24,14 @@
         <details>
           <summary style="font-family: monospace;">Technology Stack</summary>
           <img src="assets/java.svg"/> 
-          <img src="assets/csharp.svg"/> 
+          <img src="assets/python.svg"/> 
+          <img src="assets/selenium.svg"/> 
+          <img src="assets/cucumber.svg"/> 
+          <img src="assets/junit5.svg"/> 
           <img src="assets/sql.svg"/>  
           <img src="assets/javascript.svg"/> 
           <img src="assets/html.svg"/> 
           <img src="assets/css.svg"/> 
-          <img src="assets/typescript.svg"/> 
-          <img src="assets/react.svg"/> 
         </details>
         <details>
           <summary style="font-family: monospace;">Operating System & Tools</summary>
@@ -50,15 +53,14 @@
         </details>
         <details>
           <summary style="font-family: monospace;">Others</summary>
+          <img src="assets/typescript.svg"/> 
           <img src="assets/node.svg"/> 
+          <img src="assets/react.svg"/> 
           <img src="assets/elixir.svg"/> 
-          <img src="assets/python.svg"/> 
           <img src="assets/next.svg"/> 
+          <img src="assets/csharp.svg"/> 
           <img src="assets/blazor.svg"/> 
           <img src="assets/spring.svg"/> 
-          <img src="assets/selenium.svg"/> 
-          <img src="assets/cucumber.svg"/> 
-          <img src="assets/junit5.svg"/> 
           <img src="assets/sass.svg"/> 
           <img src="assets/mongodb.svg"/>  
        </details>
