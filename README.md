@@ -7,14 +7,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F9C81D&center=true&vCenter=true&multiline=true&width=405&lines=%3E+Hello+everyone.+I'm+Andr%C3%A9+Alencar!"/>
 </p>
-
+<span>
 <img width=75 src="./assets/introduction-to-cybersecurity.png"/>
 <img width=75 src="./assets/aws-developer.png"/>
 <img width=75 src="./assets/aws-fundational.png"/>
 <img width=75 src="./assets/aws-technical.png"/>
 <img width=75 src="./assets/aws-economics.png"/>
 <img width=75 src="./assets/OCI-fundations.png"/>
-
+</span>
 ### About me
 
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1626363216/47507/pepe-hacker.gif?1626363216" /> I have a degree in software engineering;
