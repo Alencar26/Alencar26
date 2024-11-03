@@ -15,6 +15,7 @@
 <img width=75 src="./assets/aws-economics.png"/>
 <img width=75 src="./assets/OCI-fundations.png"/>
 </span>
+
 ### About me
 
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1626363216/47507/pepe-hacker.gif?1626363216" /> I have a degree in software engineering;
